@@ -1,0 +1,30 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/products/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7186
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/api/products/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+
+      "RateLimitOptions": {
+        "EnableRateLimiting": true,
+        "Period": "20s",
+        "Limit": 2,
+        "PeriodTimespan": 10
+      },
+
+      "FileCacheOptions": {
+        "TtlSeconds": 10
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7154"
+  }
+}
