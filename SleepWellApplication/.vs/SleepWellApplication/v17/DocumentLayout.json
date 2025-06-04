@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\userauthenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|solutionrelative:userauthenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\userauthenticationservice\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|solutionrelative:userauthenticationservice\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\productservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\userauthenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|solutionrelative:userauthenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{578585BD-C5EC-4BAD-B67D-2433763CD9F6}|ProductService\\ProductService.csproj|solutionrelative:productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\userauthenticationservice\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|solutionrelative:userauthenticationservice\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|solutionrelative:gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5B05A3A3-B07F-4F85-B8FA-67D824E92793}|JwtAuthenticationManager\\JwtExtensionManager.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\jwtauthenticationmanager\\authenticationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B05A3A3-B07F-4F85-B8FA-67D824E92793}|JwtAuthenticationManager\\JwtExtensionManager.csproj|solutionrelative:jwtauthenticationmanager\\authenticationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|solutionrelative:gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\userauthenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|solutionrelative:userauthenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|solutionrelative:gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFC76FB2-725D-42FC-BA15-77D1B9449F21}|Gateway\\Gateway.csproj|solutionrelative:gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|c:\\users\\risha\\desktop\\.net\\sleepwellapplication\\userauthenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE702F2-BD64-4983-BDD4-B134E20DFAC6}|UserAuthenticationService\\UserAuthenticationService.csproj|solutionrelative:userauthenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -61,101 +57,98 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\appsettings.json",
-              "RelativeToolTip": "ProductService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T15:13:14.367Z",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserAuthenticationService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserAuthenticationService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:59:25.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ProductService\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\appsettings.Development.json",
-              "RelativeToolTip": "ProductService\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T15:13:12.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\Program.cs",
-              "RelativeDocumentMoniker": "Gateway\\Program.cs",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\Program.cs",
-              "RelativeToolTip": "Gateway\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "UserAuthenticationService\\Program.cs",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Program.cs",
+              "RelativeToolTip": "UserAuthenticationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T19:57:32.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\appsettings.json",
-              "RelativeDocumentMoniker": "Gateway\\appsettings.json",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\appsettings.json",
-              "RelativeToolTip": "Gateway\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-31T19:58:16.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Gateway\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Gateway\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-31T19:56:34.869Z"
+              "WhenOpened": "2025-06-04T20:26:35.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\ocelot.json",
-              "RelativeDocumentMoniker": "Gateway\\ocelot.json",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\Gateway\\ocelot.json",
-              "RelativeToolTip": "Gateway\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-31T19:44:15.574Z"
+              "Title": "AuthenticationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\JwtAuthenticationManager\\AuthenticationConfiguration.cs",
+              "RelativeDocumentMoniker": "JwtAuthenticationManager\\AuthenticationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\JwtAuthenticationManager\\AuthenticationConfiguration.cs",
+              "RelativeToolTip": "JwtAuthenticationManager\\AuthenticationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:54:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserAuthenticationService\\Services\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Services\\UserManager.cs",
+              "RelativeToolTip": "UserAuthenticationService\\Services\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:20:53.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserAuthenticationService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Models\\User.cs",
+              "RelativeToolTip": "UserAuthenticationService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:15:25.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProductService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-31T19:57:07.436Z"
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "UserAuthenticationService\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "UserAuthenticationService\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:12:57.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\ProductService\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T14:24:46.135Z",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserAuthenticationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Risha\\Desktop\\.NET\\SleepWellApplication\\UserAuthenticationService\\appsettings.json",
+              "RelativeToolTip": "UserAuthenticationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T20:10:33.148Z",
               "EditorCaption": ""
             }
           ]

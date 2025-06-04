@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ETfRV0TDfb4aRuEDwlHN/GUQtw5bFGYhrnIZ8xW9DC4=",
+  "Source": "UserAuthenticationService",
+  "BasePath": "_content/UserAuthenticationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

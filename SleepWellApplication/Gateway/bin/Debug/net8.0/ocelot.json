@@ -22,6 +22,29 @@
       "FileCacheOptions": {
         "TtlSeconds": 10
       }
+    },
+    {
+      "DownstreamPathTemplate": "/api/values/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7240
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/api/values/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+
+      "RateLimitOptions": {
+        "EnableRateLimiting": true,
+        "Period": "20s",
+        "Limit": 2,
+        "PeriodTimespan": 10
+      },
+
+      "FileCacheOptions": {
+        "TtlSeconds": 10
+      }
     }
   ],
   "GlobalConfiguration": {

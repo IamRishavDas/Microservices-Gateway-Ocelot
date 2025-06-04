@@ -1,0 +1,13 @@
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\bin\Debug\net8.0\JwtExtensionManager.deps.json
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\bin\Debug\net8.0\JwtExtensionManager.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\bin\Debug\net8.0\JwtExtensionManager.pdb
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.csproj.AssemblyReference.cache
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.AssemblyInfoInputs.cache
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.AssemblyInfo.cs
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.csproj.CoreCompileInputs.cache
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.sourcelink.json
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\refint\JwtExtensionManager.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\JwtExtensionManager.pdb
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\JwtAuthenticationManager\obj\Debug\net8.0\ref\JwtExtensionManager.dll
