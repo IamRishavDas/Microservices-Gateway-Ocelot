@@ -31,6 +31,10 @@ namespace UserAuthenticationService.Services
                             {
                                 new Claim(JwtRegisteredClaimNames.Name, userRequest.UserName),
                                 new Claim(ClaimTypes.Role, user.Role),
+
+                                #region use when we have to do the authentication and authorization check in gateway
+                                //new Claim("Role", user.Role), 
+                                #endregion
                             }
                         );
 

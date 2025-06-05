@@ -9,6 +9,10 @@
       {
         "Path": "UserAuthenticationService\\UserAuthenticationService.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start"
       }
     ]
   }
