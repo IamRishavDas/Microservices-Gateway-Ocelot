@@ -31,6 +31,22 @@ namespace UserAuthenticationService.Controllers
             return Ok(_userManager.CreateUser(user));
         }
 
+        [HttpGet("users")]
+        [Authorize(Roles = "Admin,User")]
+        public IActionResult GetUsers()
+        {
+            return Ok(_userManager.GetUsers());
+        }
+
+        [HttpGet("users/{userName}")]
+        [Authorize(Roles = "User")]
+        public IActionResult GetUserDetails([FromRoute] string userName)
+        {
+            User? user = _userManager.GetUsers().Where(user => user.UserName == userName).FirstOrDefault();
+            if (user == null) return NotFound($"User not found, User Name: {userName}");
+            return Ok(user);
+        }
+
 
     }
 }

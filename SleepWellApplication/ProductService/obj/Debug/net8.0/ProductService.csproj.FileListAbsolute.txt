@@ -35,3 +35,14 @@ C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\obj\Debug\net8.0
 C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\obj\Debug\net8.0\ref\ProductService.dll
 C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\JwtExtensionManager.dll
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\bin\Debug\net8.0\JwtExtensionManager.pdb
+C:\Users\Risha\Desktop\.NET\SleepWellApplication\ProductService\obj\Debug\net8.0\ProductService.sourcelink.json
