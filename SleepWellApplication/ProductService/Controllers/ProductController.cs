@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProductService.DTOs;
@@ -46,18 +47,21 @@ namespace ProductService.Controllers
         };
 
         [HttpGet("connection-string")]
+        [Authorize(Roles = "Admin")]
         public ActionResult<string> GetConnectionString()
         {
             return Ok(_configuration["ConnectionStrings:ProductDb"] ?? throw new Exception("Connection string not found!"));
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin,User")]
         public IActionResult GetProducts()
         {
             return Ok(_mapper.Map<IList<ProductRespone>>(products));
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin,User")]
         public IActionResult GetProductById([FromRoute]Guid id)
         {
             var product = products.Find(product => product.Id == id);
@@ -66,6 +70,7 @@ namespace ProductService.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public IActionResult CreateProduct([FromBody]ProductRequest productRequest)
         {
             Product product = new Product()
@@ -81,6 +86,7 @@ namespace ProductService.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public IActionResult DeleteProductById([FromQuery]Guid id)
         {
 
@@ -91,6 +97,7 @@ namespace ProductService.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")]
         public IActionResult UpdateProductById([FromRoute] Guid id, [FromBody]ProductRequest productRequest)
         {
             var product = products.Find(product => product.Id == id);

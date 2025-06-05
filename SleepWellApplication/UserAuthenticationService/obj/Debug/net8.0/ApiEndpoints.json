@@ -40,5 +40,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserAuthenticationService.Controllers.AuthController",
+    "Method": "GetUsers",
+    "RelativePath": "api/auth/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserAuthenticationService.Controllers.AuthController",
+    "Method": "GetUserDetails",
+    "RelativePath": "api/auth/users/{userName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

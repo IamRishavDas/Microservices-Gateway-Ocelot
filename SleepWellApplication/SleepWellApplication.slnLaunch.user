@@ -3,7 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "AuthenticationService\\AuthenticationService.csproj",
+        "Path": "ProductService\\ProductService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UserAuthenticationService\\UserAuthenticationService.csproj",
         "Action": "Start"
       }
     ]
